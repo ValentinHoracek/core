@@ -1,0 +1,15 @@
+[submodule "lib/core-docs"]
+	path = lib/core-docs
+	url = https://github.com/ValentinHoracek/core-docs
+[submodule "lib/core-qa"]
+	path = lib/core-qa
+	url = https://github.com/ValentinHoracek/core-qa
+[submodule "lib/core-devops"]
+	path = lib/core-devops
+	url = https://github.com/ValentinHoracek/core-devops/
+[submodule "lib/core-architecture"]
+	path = lib/core-architecture
+	url = https://github.com/ValentinHoracek/core-architecture
+[submodule "lib/core-agentic"]
+	path = lib/core-agentic
+	url = https://github.com/ValentinHoracek/core-agentic/
